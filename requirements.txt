@@ -1,0 +1,10 @@
+customtkinter
+watchpoints
+requests
+CTkListbox
+CTkMessagebox
+asynctkinter
+requests-toolbelt
+click
+rich
+pillow
